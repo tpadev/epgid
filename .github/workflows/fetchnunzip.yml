@@ -26,8 +26,7 @@ jobs:
 
     - name: Commit and push the unzipped file
       run: |
-        # git config --global user.email "kryodz@gmail.com"
-        # git config --global user.name "Kryodz"
+        
         git add ip3.epg.xml
         git commit -m "Update EPG file"
         git push
