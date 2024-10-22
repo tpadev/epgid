@@ -2,57 +2,57 @@
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
 <channel id="Trans7.id"><display-name lang="id">Trans7.id</display-name></channel>
 <channel id="TransTV.id"><display-name lang="id">TransTV.id</display-name></channel>
-<programme start="20241022173000 +0700" stop="20241022181500 +0700" channel="Trans7.id"><title>Superbike 2024 Spain - Race 2 Tape Delay</title></programme>
-<programme start="20241022181500 +0700" stop="20241022193000 +0700" channel="Trans7.id"><title>Best Fishing</title></programme>
-<programme start="20241022193000 +0700" stop="20241022204500 +0700" channel="Trans7.id"><title>BTS</title></programme>
-<programme start="20241022204500 +0700" stop="20241022214500 +0700" channel="Trans7.id"><title>Just For Laugh Gags</title></programme>
-<programme start="20241022214500 +0700" stop="20241022223000 +0700" channel="Trans7.id"><title>Titik Target</title></programme>
-<programme start="20241022223000 +0700" stop="20241022234500 +0700" channel="Trans7.id"><title>Redaksi Pagi</title></programme>
-<programme start="20241022234500 +0700" stop="20241023004500 +0700" channel="Trans7.id"><title>Spotlite</title></programme>
-<programme start="20241023004500 +0700" stop="20241023013000 +0700" channel="Trans7.id"><title>Selebrita Pagi</title></programme>
-<programme start="20241023013000 +0700" stop="20241023023000 +0700" channel="Trans7.id"><title>FYP - For Your Pagi</title></programme>
-<programme start="20241023023000 +0700" stop="20241023031500 +0700" channel="Trans7.id"><title>Selebrita Heits</title></programme>
-<programme start="20241023031500 +0700" stop="20241023041500 +0700" channel="Trans7.id"><title>Trending</title></programme>
-<programme start="20241023041500 +0700" stop="20241023050000 +0700" channel="Trans7.id"><title>Enah Bikin Enak</title></programme>
-<programme start="20241023050000 +0700" stop="20241023054500 +0700" channel="Trans7.id"><title>Bocah Petualang</title></programme>
-<programme start="20241023054500 +0700" stop="20241023063000 +0700" channel="Trans7.id"><title>Si Otan</title></programme>
-<programme start="20241023063000 +0700" stop="20241023071500 +0700" channel="Trans7.id"><title>Indonesiaku</title></programme>
-<programme start="20241023071500 +0700" stop="20241023081500 +0700" channel="Trans7.id"><title>Redaksi</title></programme>
-<programme start="20241023081500 +0700" stop="20241023091500 +0700" channel="Trans7.id"><title>Jejak Si Gundul</title></programme>
-<programme start="20241023091500 +0700" stop="20241023101500 +0700" channel="Trans7.id"><title>Makan Receh</title></programme>
-<programme start="20241023101500 +0700" stop="20241023110000 +0700" channel="Trans7.id"><title>Xpose Uncensored</title></programme>
-<programme start="20241023110000 +0700" stop="20241023120000 +0700" channel="Trans7.id"><title>On The Spot</title></programme>
-<programme start="20241023120000 +0700" stop="20241023123000 +0700" channel="Trans7.id"><title>Secret Story</title></programme>
-<programme start="20241023123000 +0700" stop="20241023131500 +0700" channel="Trans7.id"><title>POV - Pasti Obrolan Viral</title></programme>
-<programme start="20241023131500 +0700" stop="20241023143000 +0700" channel="Trans7.id"><title>Arisan</title></programme>
-<programme start="20241023143000 +0700" stop="20241023154500 +0700" channel="Trans7.id"><title>Lapor Pak!</title></programme>
-<programme start="20241023154500 +0700" stop="20241023163000 +0700" channel="Trans7.id"><title>The Police</title></programme>
-<programme start="20241023163000 +0700" stop="20241023171500 +0700" channel="Trans7.id"><title>Newstainment</title></programme>
-<programme start="20241023171500 +0700" stop="20241023174500 +0700" channel="Trans7.id"><title>Redaksi Malam</title></programme>
-<programme start="20241023174500 +0700" stop="20241023183000 +0700" channel="Trans7.id"><title>Sport 7</title></programme>
-<programme start="20241023183000 +0700" stop="20241023193000 +0700" channel="Trans7.id"><title>Best Fishing</title></programme>
-<programme start="20241023193000 +0700" stop="20241023204500 +0700" channel="Trans7.id"><title>BTS</title></programme>
-<programme start="20241022180000 +0700" stop="20241022191000 +0700" channel="TransTV.id"><title>Bioskop Indonesia Premiere - Salon Madam: Suntik Langsing</title></programme>
-<programme start="20241022191000 +0700" stop="20241022202000 +0700" channel="TransTV.id"><title>Bioskop Indonesia Premiere - 7 Pusaka: Topeng Nyi Melati</title></programme>
-<programme start="20241022202000 +0700" stop="20241022204000 +0700" channel="TransTV.id"><title>Pondok Pak Cus</title></programme>
-<programme start="20241022204000 +0700" stop="20241022212000 +0700" channel="TransTV.id"><title>SCBD - Semua Cinta Butuh Duit</title></programme>
-<programme start="20241022212000 +0700" stop="20241022214000 +0700" channel="TransTV.id"><title>Sketsa</title></programme>
-<programme start="20241022214000 +0700" stop="20241022220000 +0700" channel="TransTV.id"><title>Keluarga Sonfai</title></programme>
-<programme start="20241022220000 +0700" stop="20241022233000 +0700" channel="TransTV.id"><title>Islam Itu Indah</title></programme>
-<programme start="20241022233000 +0700" stop="20241023003000 +0700" channel="TransTV.id"><title>Insert Pagi</title></programme>
-<programme start="20241023003000 +0700" stop="20241023013000 +0700" channel="TransTV.id"><title>CNN Indonesia Good Morning</title></programme>
-<programme start="20241023013000 +0700" stop="20241023033000 +0700" channel="TransTV.id"><title>Pagi-Pagi Ambyar</title></programme>
-<programme start="20241023033000 +0700" stop="20241023053000 +0700" channel="TransTV.id"><title>Insert</title></programme>
-<programme start="20241023053000 +0700" stop="20241023070000 +0700" channel="TransTV.id"><title>Brownis - Obrolan Manis</title></programme>
-<programme start="20241023070000 +0700" stop="20241023080000 +0700" channel="TransTV.id"><title>Rumpi - No Secret</title></programme>
-<programme start="20241023080000 +0700" stop="20241023090000 +0700" channel="TransTV.id"><title>Insert Today</title></programme>
-<programme start="20241023090000 +0700" stop="20241023093000 +0700" channel="TransTV.id"><title>CNN Indonesia News Update</title></programme>
-<programme start="20241023093000 +0700" stop="20241023103000 +0700" channel="TransTV.id"><title>Dream Box Indonesia</title></programme>
-<programme start="20241023103000 +0700" stop="20241023114500 +0700" channel="TransTV.id"><title>Bikin Laper</title></programme>
-<programme start="20241023114500 +0700" stop="20241023124500 +0700" channel="TransTV.id"><title>Jam Praktek</title></programme>
-<programme start="20241023124500 +0700" stop="20241023140000 +0700" channel="TransTV.id"><title>Insert Story</title></programme>
-<programme start="20241023140000 +0700" stop="20241023160000 +0700" channel="TransTV.id"><title>Bioskop TransTV.id - John Wick 2</title></programme>
-<programme start="20241023160000 +0700" stop="20241023180000 +0700" channel="TransTV.id"><title>Bioskop TransTV.id - Street Kings</title></programme>
-<programme start="20241023180000 +0700" stop="20241023191000 +0700" channel="TransTV.id"><title>Bioskop Indonesia Premiere - Menicure</title></programme>
-<programme start="20241023191000 +0700" stop="20241023202000 +0700" channel="TransTV.id"><title>Bioskop Indonesia Premiere - Buku Harian Monalisa</title></programme>
+<programme start="20241022173000 +0700" stop="20241022181500 +0700" channel="Trans7.id"><title lang="id">Superbike 2024 Spain - Race 2 Tape Delay</title></programme>
+<programme start="20241022181500 +0700" stop="20241022193000 +0700" channel="Trans7.id"><title lang="id">Best Fishing</title></programme>
+<programme start="20241022193000 +0700" stop="20241022204500 +0700" channel="Trans7.id"><title lang="id">BTS</title></programme>
+<programme start="20241022204500 +0700" stop="20241022214500 +0700" channel="Trans7.id"><title lang="id">Just For Laugh Gags</title></programme>
+<programme start="20241022214500 +0700" stop="20241022223000 +0700" channel="Trans7.id"><title lang="id">Titik Target</title></programme>
+<programme start="20241022223000 +0700" stop="20241022234500 +0700" channel="Trans7.id"><title lang="id">Redaksi Pagi</title></programme>
+<programme start="20241022234500 +0700" stop="20241023004500 +0700" channel="Trans7.id"><title lang="id">Spotlite</title></programme>
+<programme start="20241023004500 +0700" stop="20241023013000 +0700" channel="Trans7.id"><title lang="id">Selebrita Pagi</title></programme>
+<programme start="20241023013000 +0700" stop="20241023023000 +0700" channel="Trans7.id"><title lang="id">FYP - For Your Pagi</title></programme>
+<programme start="20241023023000 +0700" stop="20241023031500 +0700" channel="Trans7.id"><title lang="id">Selebrita Heits</title></programme>
+<programme start="20241023031500 +0700" stop="20241023041500 +0700" channel="Trans7.id"><title lang="id">Trending</title></programme>
+<programme start="20241023041500 +0700" stop="20241023050000 +0700" channel="Trans7.id"><title lang="id">Enah Bikin Enak</title></programme>
+<programme start="20241023050000 +0700" stop="20241023054500 +0700" channel="Trans7.id"><title lang="id">Bocah Petualang</title></programme>
+<programme start="20241023054500 +0700" stop="20241023063000 +0700" channel="Trans7.id"><title lang="id">Si Otan</title></programme>
+<programme start="20241023063000 +0700" stop="20241023071500 +0700" channel="Trans7.id"><title lang="id">Indonesiaku</title></programme>
+<programme start="20241023071500 +0700" stop="20241023081500 +0700" channel="Trans7.id"><title lang="id">Redaksi</title></programme>
+<programme start="20241023081500 +0700" stop="20241023091500 +0700" channel="Trans7.id"><title lang="id">Jejak Si Gundul</title></programme>
+<programme start="20241023091500 +0700" stop="20241023101500 +0700" channel="Trans7.id"><title lang="id">Makan Receh</title></programme>
+<programme start="20241023101500 +0700" stop="20241023110000 +0700" channel="Trans7.id"><title lang="id">Xpose Uncensored</title></programme>
+<programme start="20241023110000 +0700" stop="20241023120000 +0700" channel="Trans7.id"><title lang="id">On The Spot</title></programme>
+<programme start="20241023120000 +0700" stop="20241023123000 +0700" channel="Trans7.id"><title lang="id">Secret Story</title></programme>
+<programme start="20241023123000 +0700" stop="20241023131500 +0700" channel="Trans7.id"><title lang="id">POV - Pasti Obrolan Viral</title></programme>
+<programme start="20241023131500 +0700" stop="20241023143000 +0700" channel="Trans7.id"><title lang="id">Arisan</title></programme>
+<programme start="20241023143000 +0700" stop="20241023154500 +0700" channel="Trans7.id"><title lang="id">Lapor Pak!</title></programme>
+<programme start="20241023154500 +0700" stop="20241023163000 +0700" channel="Trans7.id"><title lang="id">The Police</title></programme>
+<programme start="20241023163000 +0700" stop="20241023171500 +0700" channel="Trans7.id"><title lang="id">Newstainment</title></programme>
+<programme start="20241023171500 +0700" stop="20241023174500 +0700" channel="Trans7.id"><title lang="id">Redaksi Malam</title></programme>
+<programme start="20241023174500 +0700" stop="20241023183000 +0700" channel="Trans7.id"><title lang="id">Sport 7</title></programme>
+<programme start="20241023183000 +0700" stop="20241023193000 +0700" channel="Trans7.id"><title lang="id">Best Fishing</title></programme>
+<programme start="20241023193000 +0700" stop="20241023204500 +0700" channel="Trans7.id"><title lang="id">BTS</title></programme>
+<programme start="20241022180000 +0700" stop="20241022191000 +0700" channel="TransTV.id"><title lang="id">Bioskop Indonesia Premiere - Salon Madam: Suntik Langsing</title></programme>
+<programme start="20241022191000 +0700" stop="20241022202000 +0700" channel="TransTV.id"><title lang="id">Bioskop Indonesia Premiere - 7 Pusaka: Topeng Nyi Melati</title></programme>
+<programme start="20241022202000 +0700" stop="20241022204000 +0700" channel="TransTV.id"><title lang="id">Pondok Pak Cus</title></programme>
+<programme start="20241022204000 +0700" stop="20241022212000 +0700" channel="TransTV.id"><title lang="id">SCBD - Semua Cinta Butuh Duit</title></programme>
+<programme start="20241022212000 +0700" stop="20241022214000 +0700" channel="TransTV.id"><title lang="id">Sketsa</title></programme>
+<programme start="20241022214000 +0700" stop="20241022220000 +0700" channel="TransTV.id"><title lang="id">Keluarga Sonfai</title></programme>
+<programme start="20241022220000 +0700" stop="20241022233000 +0700" channel="TransTV.id"><title lang="id">Islam Itu Indah</title></programme>
+<programme start="20241022233000 +0700" stop="20241023003000 +0700" channel="TransTV.id"><title lang="id">Insert Pagi</title></programme>
+<programme start="20241023003000 +0700" stop="20241023013000 +0700" channel="TransTV.id"><title lang="id">CNN Indonesia Good Morning</title></programme>
+<programme start="20241023013000 +0700" stop="20241023033000 +0700" channel="TransTV.id"><title lang="id">Pagi-Pagi Ambyar</title></programme>
+<programme start="20241023033000 +0700" stop="20241023053000 +0700" channel="TransTV.id"><title lang="id">Insert</title></programme>
+<programme start="20241023053000 +0700" stop="20241023070000 +0700" channel="TransTV.id"><title lang="id">Brownis - Obrolan Manis</title></programme>
+<programme start="20241023070000 +0700" stop="20241023080000 +0700" channel="TransTV.id"><title lang="id">Rumpi - No Secret</title></programme>
+<programme start="20241023080000 +0700" stop="20241023090000 +0700" channel="TransTV.id"><title lang="id">Insert Today</title></programme>
+<programme start="20241023090000 +0700" stop="20241023093000 +0700" channel="TransTV.id"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20241023093000 +0700" stop="20241023103000 +0700" channel="TransTV.id"><title lang="id">Dream Box Indonesia</title></programme>
+<programme start="20241023103000 +0700" stop="20241023114500 +0700" channel="TransTV.id"><title lang="id">Bikin Laper</title></programme>
+<programme start="20241023114500 +0700" stop="20241023124500 +0700" channel="TransTV.id"><title lang="id">Jam Praktek</title></programme>
+<programme start="20241023124500 +0700" stop="20241023140000 +0700" channel="TransTV.id"><title lang="id">Insert Story</title></programme>
+<programme start="20241023140000 +0700" stop="20241023160000 +0700" channel="TransTV.id"><title lang="id">Bioskop TransTV.id - John Wick 2</title></programme>
+<programme start="20241023160000 +0700" stop="20241023180000 +0700" channel="TransTV.id"><title lang="id">Bioskop TransTV.id - Street Kings</title></programme>
+<programme start="20241023180000 +0700" stop="20241023191000 +0700" channel="TransTV.id"><title lang="id">Bioskop Indonesia Premiere - Menicure</title></programme>
+<programme start="20241023191000 +0700" stop="20241023202000 +0700" channel="TransTV.id"><title lang="id">Bioskop Indonesia Premiere - Buku Harian Monalisa</title></programme>
 </tv>
