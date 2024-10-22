@@ -27,7 +27,7 @@ jobs:
 
     - name: Commit and push the unzipped file
       run: |
-        git add epg.xml
+        git add ip3.epg.xml
         git commit -m "Update EPG file"
         git push
       env:
