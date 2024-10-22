@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="Trans7.id"><display-name lang="id">Trans7</display-name></channel>
-<channel id="TransTV.id"><display-name lang="id">TransTV</display-name></channel>
+<channel id="Trans7.id"><display-name lang="id">Trans7.id</display-name></channel>
+<channel id="TransTV.id"><display-name lang="id">TransTV.id</display-name></channel>
 <programme start="20241022173000 +0700" stop="20241022181500 +0700" channel="Trans7.id"><title>Superbike 2024 Spain - Race 2 Tape Delay</title></programme>
 <programme start="20241022181500 +0700" stop="20241022193000 +0700" channel="Trans7.id"><title>Best Fishing</title></programme>
 <programme start="20241022193000 +0700" stop="20241022204500 +0700" channel="Trans7.id"><title>BTS</title></programme>
