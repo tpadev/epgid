@@ -2,11 +2,12 @@ name: Download and Unzip EPG File
 
 on:
   schedule:
-    # Run every day at midnight
     - cron: '0 4 * * *'
 
-  # You can also manually trigger this workflow with:
   workflow_dispatch:
+
+permissions:
+  contents: write  # Grant write access to the repository contents
 
 jobs:
   download-unzip-epg:
@@ -18,17 +19,16 @@ jobs:
 
     - name: Download the gzipped EPG file
       run: |
-        curl -L https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz -o ip3.epg.xml.gz
+        curl -L https://example.com/file.xml.gz -o epg.xml.gz
 
     - name: Unzip the file
       run: |
-        gunzip -f ip3.epg.xml.gz
+        gunzip -f epg.xml.gz
 
     - name: Commit and push the unzipped file
       run: |
-        git config --global user.email "ardiedrd@gmail.com"
-        git config --global user.name "tpadev"
-
-        git add ip3.epg.xml
+        git add epg.xml
         git commit -m "Update EPG file"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
