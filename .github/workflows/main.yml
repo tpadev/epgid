@@ -1,0 +1,33 @@
+name: Download and Unzip EPG File
+
+on:
+  schedule:
+    # Run every day at midnight
+    - cron: '0 4 * * *'
+
+  # You can also manually trigger this workflow with:
+  workflow_dispatch:
+
+jobs:
+  download-unzip-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v3
+
+    - name: Download the gzipped EPG file
+      run: |
+        curl -L https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz -o ip3.epg.xml.gz
+
+    - name: Unzip the file
+      run: |
+        gunzip -f ip3.epg.xml.gz
+
+    - name: Commit and push the unzipped file
+      run: |
+        # git config --global user.email "kryodz@gmail.com"
+        # git config --global user.name "Kryodz"
+        git add ip3.epg.xml
+        git commit -m "Update EPG file"
+        git push
