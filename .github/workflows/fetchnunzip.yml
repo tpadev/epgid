@@ -19,11 +19,11 @@ jobs:
 
     - name: Download the gzipped EPG file
       run: |
-        curl -L https://example.com/file.xml.gz -o epg.xml.gz
+        curl -L https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz -o ip3.epg.xml.gz
 
     - name: Unzip the file
       run: |
-        gunzip -f epg.xml.gz
+        gunzip -f ip3.epg.xml.gz
 
     - name: Commit and push the unzipped file
       run: |
@@ -31,4 +31,4 @@ jobs:
         git commit -m "Update EPG file"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.FETCH_TOKEN }}
