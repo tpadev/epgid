@@ -120,8 +120,8 @@
 <channel id="Tech Storm"><display-name>Tech Storm</display-name></channel>
 <channel id="Thrill"><display-name>Thrill</display-name></channel>
 <channel id="TLC"><display-name>TLC</display-name></channel>
-<channel id="Trans7"><display-name>Trans7</display-name></channel>
-<channel id="TransTV"><display-name>TransTV</display-name></channel>
+<channel id="Trans7.id"><display-name lang="id">Trans7</display-name></channel>
+<channel id="TransTV.id"><display-name lang="id">TransTV</display-name></channel>
 <channel id="TRT World"><display-name>TRT World</display-name></channel>
 <channel id="TV One"><display-name>TV One</display-name></channel>
 <channel id="TV5Monde"><display-name>TV5Monde</display-name></channel>
