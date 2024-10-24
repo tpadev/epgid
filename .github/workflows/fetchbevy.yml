@@ -1,9 +1,9 @@
-name: Fetch and Rename EPG
+name: Fetch EPG 
 
 on:
   # Runs the action every day at 4 AM
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '0 0 * * *'
 
   # Allows you to manually run the action from GitHub's UI
   workflow_dispatch:
