@@ -1,2 +1,2 @@
 # epgid
-Fetch and rename to use in zipless format 
+Fetch and use it in zipless format
