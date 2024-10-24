@@ -20,19 +20,11 @@ jobs:
     # Step 2: Fetch the EPG file from the external site
     - name: Fetch EPG file
       run: |
-        curl -o epg.xml https://www.bevy.be/generate/sZ7jyV7tWe.xml  # Replace with your EPG URL
-
-    # Step 3: Rename the EPG file
-    - name: Rename EPG file
-      run: |
-        mv sZ7jyV7tWe.xml epgid.xml  # Replace 'new-epg-file-name.xml' with your desired name
+        curl -o epgid.xml https://www.bevy.be/generate/sZ7jyV7tWe.xml  # Replace with your EPG URL
 
     # Step 4: Configure Git with your credentials
     - name: Set up Git
       run: |
-        git config --global user.email "ardiedrd@gmail.com"
-        git config --global user.name "tpadev"
-        
         git add epgid.xml
         git commit -m "Update EPG file"
         git push
