@@ -1,9 +1,9 @@
 name: Fetch EPG 
 
 on:
-  # Runs the action every day at 4 AM
+  # Runs the action every day at 4 AM UTC
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 4 * * *'
 
   # Allows you to manually run the action from GitHub's UI
   workflow_dispatch:
@@ -13,24 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Step 1: Checkout the repository
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    # Step 2: Fetch the EPG file from the external site
-    - name: Fetch EPG file
-      run: |
-        curl -o epgid.xml https://www.bevy.be/generate/sZ7jyV7tWe.xml  # Replace with your EPG URL
+      # Step 2: Fetch the EPG file from the external site
+      - name: Fetch EPG file
+        run: |
+          curl -o epgid.xml https://www.bevy.be/generate/sZ7jyV7tWe.xml  # Replace with your EPG URL
 
-    # Step 4: Configure Git with your credentials
-    - name: Set up Git
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        
-        git add epgid.xml
-        git commit -m "Update EPG file"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.FETCH_TOKEN }}
-    
+      # Step 3: Commit and push EPG file without global Git config
+      - name: Commit and push EPG file
+        run: |
+          git add epgid.xml
+          git commit -m "Update EPG file" --author="GitHub Actions Bot <github-actions[bot]@users.noreply.github.com>"
+          git push
