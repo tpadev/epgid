@@ -25,6 +25,9 @@ jobs:
     # Step 4: Configure Git with your credentials
     - name: Set up Git
       run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
         git add epgid.xml
         git commit -m "Update EPG file"
         git push
