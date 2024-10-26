@@ -20,7 +20,7 @@ jobs:
       # Step 2: Fetch the EPG file from the external site
       - name: Fetch EPG file
         run: |
-          curl -o epgid.xml https://www.bevy.be/generate/sZ7jyV7tWe.xml  # Replace with your EPG URL
+          curl -o epgid.xml https://www.bevy.be/bevyfiles/indonesiapremium3.xml  # Replace with your EPG URL
 
       # Step 3: Commit and push EPG file without global Git config
       - name: Commit and push EPG file
