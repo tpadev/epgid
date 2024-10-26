@@ -26,5 +26,8 @@ jobs:
       - name: Commit and push EPG file
         run: |
           git add epgid.xml
-          git commit -m "Update EPG file" --author="GitHub Actions Bot <github-actions[bot]@users.noreply.github.com>"
+          git commit -m "Update EPG file"
           git push
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
